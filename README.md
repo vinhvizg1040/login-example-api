@@ -1,2 +1,2 @@
 # login-example
-*login example something like JWT, Auth *
+*login example something like JWT, Auth*
